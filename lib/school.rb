@@ -19,7 +19,7 @@ class School
     end 
    end
    def sort 
-   roster.sort_by do |x, y| 
-# #      x 
-# #    end 
-# # #  end 
+   roster.sort_by do |x, y|
+     x 
+   end 
+end 
