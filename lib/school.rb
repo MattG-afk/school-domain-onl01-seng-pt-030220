@@ -22,4 +22,5 @@ class School
    roster.sort_by do |x, y|
      x 
    end 
-end 
+  end 
+end
